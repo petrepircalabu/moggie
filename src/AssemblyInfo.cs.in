@@ -1,0 +1,14 @@
+//
+// AssemblyInfo.cs.in for project 'moggie'  
+//
+// Authors:
+//	Petre Pircalabu <petre.pircalabu@gmail.com>
+//
+using System.Reflection;
+using System.Runtime.CompilerServices;
+
+[assembly: AssemblyVersion("@VERSION@")]
+[assembly: AssemblyTitle ("Moggie")]
+[assembly: AssemblyDescription ("Moggie Email Client")]
+[assembly: AssemblyCopyright ("Copyright (c) 2018 Petre Pircalabu.")]
+
